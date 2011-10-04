@@ -15,15 +15,15 @@
                 </dict>
         </dict>
         <key>Label</key>
-        <string>name.franxman.kindle_sync</string>
+        <string>name.mmt.kindle_sync</string>
         <key>Program</key>
-        <string>/Users/franxman/bin/kindle_sync.sh</string>
+        <string>/Users/mmt/Applications/kindle_sync.sh</string>
         <key>StartInterval</key>
         <integer>30</integer>
         <key>ThrottleInterval</key>
         <integer>60</integer>
         <key>WorkingDirectory</key>
-        <string>/Users/franxman/</string>
+        <string>/Users/mmt/</string>
 </dict>
 </plist>
 
